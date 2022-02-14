@@ -260,7 +260,7 @@ header .textos-header{
 }
 
 @media screen and (max-width:900px){
-    header{
+    .header{
         background-position: center;
     }
 
